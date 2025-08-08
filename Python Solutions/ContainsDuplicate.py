@@ -7,7 +7,7 @@ class Solution:
         # Loop over each number in the array, and store in hash map.
         for item in nums:
             # If item exists in dict, return True
-            if item in dict.keys():
+            if item in dict:
                 return True
             else:
                 # Add do dict
