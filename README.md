@@ -11,3 +11,4 @@ Press on the language to see the code
 | [Two Sum](https://neetcode.io/problems/two-integer-sum/)| [Python](./Python%20Solutions/TwoSum.py) | Easy |
 | [Group Anagrams](https://neetcode.io/problems/anagram-groups/)| [Python](./Python%20Solutions/GroupAnagrams.py) | Medium |
 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list/)| [Python](./Python%20Solutions/TopKFrequentElements.py) | Medium |
+| [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode/)| [Python](./Python%20Solutions/EncodeAndDecodeStrings.py) | Medium |
