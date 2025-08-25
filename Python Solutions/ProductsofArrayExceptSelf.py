@@ -1,7 +1,7 @@
 from collections import defaultdict
 
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
+    def productExceptSelf(self, nums):
         # Put into a hash map, and search for the count of itself, -1, and then get the count of each other one and do y^x
 
         # Create dict containing number count
