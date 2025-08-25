@@ -12,3 +12,4 @@ Press on the language to see the code
 | [Group Anagrams](https://neetcode.io/problems/anagram-groups/)| [Python](./Python%20Solutions/GroupAnagrams.py) | Medium |
 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list/)| [Python](./Python%20Solutions/TopKFrequentElements.py) | Medium |
 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode/)| [Python](./Python%20Solutions/EncodeAndDecodeStrings.py) | Medium |
+| [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self/)| [Python](./Python%20Solutions//ProductsofArrayExceptSelf.py) | Medium |
