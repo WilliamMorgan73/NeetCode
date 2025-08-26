@@ -13,3 +13,4 @@ Press on the language to see the code
 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list/)| [Python](./Python%20Solutions/Roadmap/Arrays%20&%20Hashing/TopKFrequentElements.py) | Medium |
 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode/)| [Python](./Python%20Solutions/Roadmap/Arrays%20&%20Hashing/EncodeAndDecodeStrings.py) | Medium |
 | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self/)| [Python](./Python%20Solutions/Roadmap/Arrays%20&%20Hashing/ProductsofArrayExceptSelf.py) | Medium |
+| [Valid Sudoku](https://neetcode.io/problems/valid-sudoku/)| [Python](./Python%20Solutions/Roadmap/Arrays%20&%20Hashing/ValidSudoku.py) | Medium |
