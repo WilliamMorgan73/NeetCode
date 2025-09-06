@@ -17,3 +17,4 @@ Press on the language to see the code
 | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence/)| [Python](./Python%20Solutions/Roadmap/Arrays%20&%20Hashing/LongestConsecutiveSequence.py) | Medium |
 | [Valid Parentheses](https://neetcode.io/problems/valid-parentheses/)| [Python](./Python%20Solutions/Roadmap/Stack/ValidParentheses.py) | Easy |
 | [Minimum Stack](https://neetcode.io/problems/minimum-stack/)| [Python](./Python%20Solutions/Roadmap/Stack/MinimumStack.py) | Medium |
+| [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation/)| [Python](./Python%20Solutions/Roadmap/Stack/EvaluateReversePolishNotation.py) | Medium |
