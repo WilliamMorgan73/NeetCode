@@ -15,6 +15,8 @@ Press on the language to see the code
 | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self/)| [Python](./Python%20Solutions/Roadmap/Arrays%20&%20Hashing/ProductsofArrayExceptSelf.py) | Medium |
 | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku/)| [Python](./Python%20Solutions/Roadmap/Arrays%20&%20Hashing/ValidSudoku.py) | Medium |
 | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence/)| [Python](./Python%20Solutions/Roadmap/Arrays%20&%20Hashing/LongestConsecutiveSequence.py) | Medium |
+| [Valid Palindrome](https://neetcode.io/problems/is-palindrome/)| [Python](./Python%20Solutions/Roadmap/Two%20Pointers/ValidPalindrome.py) | Easy |
 | [Valid Parentheses](https://neetcode.io/problems/valid-parentheses/)| [Python](./Python%20Solutions/Roadmap/Stack/ValidParentheses.py) | Easy |
 | [Minimum Stack](https://neetcode.io/problems/minimum-stack/)| [Python](./Python%20Solutions/Roadmap/Stack/MinimumStack.py) | Medium |
 | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation/)| [Python](./Python%20Solutions/Roadmap/Stack/EvaluateReversePolishNotation.py) | Medium |
+| [Daily Temperatures](https://neetcode.io/problems/daily-temperatures/)| [Python](./Python%20Solutions/Roadmap/Stack/DailyTemperatures.py) | Medium |
