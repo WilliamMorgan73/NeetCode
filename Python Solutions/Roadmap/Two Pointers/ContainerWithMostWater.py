@@ -1,5 +1,5 @@
 class Solution:
-    def maxArea(self, heights: List[int]) -> int:
+    def maxArea(self, heights) -> int:
         # two pointer
         # calculate area by height of min bar * distance between
         # Keep track of min
